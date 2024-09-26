@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'My Docs',
+			 
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
@@ -15,13 +16,17 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'My Docs', slug: 'guides/example' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Git & GitHub',
+					autogenerate: { directory: 'GitHub' }, 
 				},
+				{ label: 'reference', 
+					autogenerate: { directory: 'reference' }, 
+				},
+				
 			],
 		}),
 	],
