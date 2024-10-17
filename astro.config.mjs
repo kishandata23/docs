@@ -19,10 +19,34 @@ export default defineConfig({
 						{ label: 'My Docs', slug: 'guides/example' },
 					],
 				},
-				{
-					label: 'Git & GitHub',
-					autogenerate: { directory: 'GitHub' }, 
+
+
+                {
+					label: 'Git & Github',
+					items: [ 
+						{ label: 'Introduction', slug: 'guides/git_github_intro' },
+						 
+					],
 				},
+
+
+                {
+					label: 'Python',
+					items: [ 
+						{ label: 'Introduction', slug: 'guides/python_intro' },
+                        { label: 'Roadmap', slug: 'guides/python_roadmap' },
+					],
+				},
+
+                {
+					label: 'SQL',
+					items: [
+						{ label: 'Introduction', slug: 'guides/sql_intro' },   
+                        { label: 'Roadmap', slug: 'guides/sql_roadmap' },
+                        { label: 'Motivation', slug: 'guides/sql_motivation' }, 
+					],
+				},
+				 
 				{ label: 'reference', 
 					autogenerate: { directory: 'reference' }, 
 				},
