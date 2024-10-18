@@ -9,4 +9,13 @@ description: SQL roadmap.
 
 [image](https://whimsical.com/sql-TmQi9a92VnyrMDKW96cpGm) -->
 
-![](../../../assets/sql_map.gif)
+<img src='../../../assets/mysqlmindmap.drawio.svg'>
+
+
+
+<br>
+<br>
+
+check other visual found on Linkedin
+[Map1](../../../assets/sql_map.gif)
+[Map2](../../../assets/map1.gif)
