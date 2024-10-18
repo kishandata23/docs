@@ -8,11 +8,11 @@ description: SQL roadmap.
 ![Whimsical SQL Roadmap Board](https://whimsical.com/sql-TmQi9a92VnyrMDKW96cpGm)
 
 [image](https://whimsical.com/sql-TmQi9a92VnyrMDKW96cpGm) -->
-
-<img src='../../../assets/mysqlmindmap.drawio.svg'>
-
-
-
+<!-- 
+<img src='../../../assets/mysqlmindmap_drawio.png'>
+<img src='../../../assets/mysqlmindmap.webp> -->
+![](../../../assets/mysqlmindmap_drawio.png)
+ 
 <br>
 <br>
 
